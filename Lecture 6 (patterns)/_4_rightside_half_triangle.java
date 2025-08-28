@@ -24,14 +24,14 @@ public class _4_rightside_half_triangle {
             int csp = 1;
 
             while (csp <= nsp){
-                System.out.print(" ");
+                System.out.print("  ");
                 csp ++;
             }
 
             int cst = 1;
 
             while (cst <= nst){
-                System.out.print("*");
+                System.out.print("* ");
                 cst ++;
             }
 
