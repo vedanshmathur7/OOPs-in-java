@@ -11,19 +11,19 @@ public class _17_diamond_spaced_square {
 
             int cst=1;
             while (cst<=nst){
-                System.out.print("* ");
+                System.out.print("*  ");
                 cst++;
             }
 
             int csp = 1;
             while (csp<=nsp){
-                System.out.print("  ");
+                System.out.print("   ");
                 csp++;
             }
 
             cst = 1;
             while (cst<=nst){
-                System.out.print("* ");
+                System.out.print("*  ");
                 cst++;
             }
 
